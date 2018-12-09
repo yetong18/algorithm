@@ -1,3 +1,3 @@
 # algorithm
 
-study algorithm
+study algorithm on git
